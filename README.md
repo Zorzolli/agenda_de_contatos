@@ -1,6 +1,7 @@
 # agenda_de_contatos
 
-App Agenda de Contatos 
+App Agenda de Contatos feito em Flutter, com funções como abrir câmera, 
+ligar, adicionar e editar contatos.
 
 ## Getting Started
 
